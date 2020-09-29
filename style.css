@@ -1,0 +1,40 @@
+.field{
+    display: flex;
+    margin: 10px auto;
+    border: 1px solid;
+    width: 640px;
+    height: 640px;
+    flex-wrap: wrap;
+}
+
+.excel{
+    width: 78px;
+    height: 78px;
+    border: 1px solid #000;
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.current{
+    color: transparent;
+    background: url("KnightBlack.png");
+    background-size: cover;
+}
+body{
+    background-color:#FF4136;
+}
+
+.button {
+    margin-left: 720px;
+    background-color: #0074D9;
+    border: none;
+    color: white;
+    padding: 10px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    cursor: pointer;
+}
