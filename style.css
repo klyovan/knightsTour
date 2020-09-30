@@ -7,7 +7,7 @@
     flex-wrap: wrap;
 }
 
-.excel{
+.cell{
     width: 78px;
     height: 78px;
     border: 1px solid #000;
@@ -19,7 +19,7 @@
 
 .current{
     color: transparent;
-    background: url("KnightBlack.png");
+    background: url("resources/KnightBlack.png");
     background-size: cover;
 }
 body{
